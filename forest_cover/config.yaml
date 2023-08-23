@@ -1,0 +1,6 @@
+path: D:/llm projects/Forest-Amazon/data1
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['forest']
